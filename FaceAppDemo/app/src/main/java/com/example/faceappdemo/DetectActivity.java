@@ -43,8 +43,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class DetectActivity extends AppCompatActivity {
-    private static final String API_KEY = "p1H3HLwyhdUGQ67wg0sagmq_9BFgeUwz";
-    private static final String API_SECRET = "1rJ_w53BWHwqfBRA5tActjw4DG2w4A4j";
+    private static final String API_KEY = "key1，自己申请";
+    private static final String API_SECRET = "key2 ，自己申请";
     private final int PHOTO_REQUEST_CODE = 100;
     private ImageView ivPic;
     private Button btnCamera, btnDetect, btnGallery, btnSave;
